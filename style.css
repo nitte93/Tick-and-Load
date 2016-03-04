@@ -1,0 +1,21 @@
+/* Styles go here */
+.loader{
+  width:300px;
+  height:30px;
+  border:2px solid #FFF;
+  position:relative;
+  margin-bottom:30px;
+}
+
+.loaderContent{
+  position:absolute;
+  background-color:#FFF;
+  height:100%;
+  width:0%;
+}
+
+.timerAndLoader{
+  margin:30px;
+  background: #00B285;
+  color: #FFF;
+}
